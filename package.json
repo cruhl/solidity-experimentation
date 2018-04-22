@@ -1,7 +1,8 @@
 {
   "name": "solidity-experimentation",
   "version": "0.0.0",
-  "description": "I've wanted to start diving into the Solidity/Ethereum ecosystem; this project is a space for trying things out.",
+  "description":
+    "I've wanted to start diving into the Solidity/Ethereum ecosystem; this project is a space for trying things out.",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
@@ -33,7 +34,7 @@
     "postcss-modules": "^1.1.0",
     "tslint": "^5.9.1",
     "tslint-config-prettier": "^1.7.0",
-    "typescript": "^2.8.3"
+    "typescript": "^2.7.1"
   },
   "dependencies": {
     "react": "^16.3.2",
