@@ -1,6 +1,7 @@
 {
   "extends": "./node_modules/@cryptograph/typescript-tooling/tsconfig.json",
   "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
     "lib": ["es2017", "dom"],
     "jsx": "react"
   }
